@@ -8,26 +8,28 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+  - title: "Research" # (Intro MQG4AI - Towards implementing RAI) Fascination of (Performance) Evaluation
+    url: /portfolio/ 
+
+  - title: "Academic Work" #& Academic Work (Teaching to students, Guest Lectures, Conference Talks, Academic Events I contributed to and learnt sth)
+    url: /talks/  
+
+  #- title: "Teaching"   #& Supervision (FS, PM, Supervised Thesis at Uni, )      
+    
+  - title: "Science Communication" #& Science Communication (TAI Workshops, Talks oriented towards the public) 
+    url: /teaching/
+  
+  - title: "Publications" # (papers, ...)
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+  - title: "Reflections" # Personal blog (Reflections on RAI)
     url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Guide"      
+    url: /markdown/       # for dev purposes
+  # # Future: Media&Press (If I'm featured); Work with me ; Courses & Materials?
