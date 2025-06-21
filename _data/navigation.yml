@@ -9,7 +9,7 @@
 
 main:
   - title: "Research" # (Intro MQG4AI - Towards implementing RAI) Fascination of (Performance) Evaluation
-    url: /portfolio/ 
+    url: /portfolio/  # (Responsible AI - AI Ethics - (Performance) Evaluation - AI Lifecycle Design)
 
   - title: "Academic Work" #& Academic Work (Teaching to students, Guest Lectures, Conference Talks, Academic Events I contributed to and learnt sth)
     url: /talks/  

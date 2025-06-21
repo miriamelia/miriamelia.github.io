@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Miriam Elia"
+title                    : "AI, Ethics & the World"
 title_separator          : "-"
 name                     : &name "Miriam Elia"
 description              : &description "personal description"
@@ -23,12 +23,12 @@ repository               : "miriamelia/miriamelia.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Miriam Elia, PhD"
-  pronouns         : # example: "she/her"  
-  bio              : "Design Science Researcher | AI Ethicist | RAI Enabler"
+  name             : "Miriam Elia, MSc."
+  # pronouns         : # example: "she/her"  
+  bio              : "RAI Enabler | AI Ethicist | Design Science Researcher"
   location         : "Earth"
-  employer         : "t.b.d."
-  uri              : "https://www.linkedin.com/in/miriam-elia-msc/"
+  # employer         : "t.b.d."
+  # uri              : "t.b.d."
   email            : "miriam@elianet.de" 
 
   # Academic websites
@@ -36,10 +36,10 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=lMm0oC0AAAAJ&hl=en" # Update with the correct link to your profile
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-6253-230X"
   semantic         : # URL
   pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Miriam-Elia?ev=hdr_xprf" # URL
+  orcid            : "https://orcid.org/0000-0001-6253-230X"
   scopus           : # URL
 
   # Repositories and software development
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "MiriamElia" # Username - Update with your LinkedIn username
+  linkedin         : "https://www.linkedin.com/in/miriam-elia-msc/" # Username - Update with your LinkedIn username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
